@@ -20,10 +20,12 @@ The designed and implemented system consists of four main parts. First, regions 
 
 ## Images
 <p align="center"><b>Dimensions of the anal plate of the sand lizard</b></p>
-<img src="images/img_dimensions.png">
+
+![image1](images/img_dimensions.PNG)
 
 <p align="center"><b>Simple GUI made in PyQt</b></p>
-<img src="images/img_gui.png">
+
+![image2](images/img_gui.PNG)
 
 
 
